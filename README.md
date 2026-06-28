@@ -113,10 +113,6 @@ philosophy:  "Closed-loop systems beat one-off scripts."
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadTadja&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaadTadja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
-
 </div>
 
 ---
