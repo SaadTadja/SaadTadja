@@ -7,7 +7,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SaadTadja&label=Profile%20views&color=7aa2f7&style=flat-square)](https://github.com/SaadTadja)
-[![GitHub followers](https://img.shields.io/github/followers/SaadTadja?label=Followers&style=flat-square&color=7aa2f7)](https://github.com/SaadTadja)
 [![Email](https://img.shields.io/badge/Contact-saadodin3%40gmail.com-7aa2f7?style=flat-square)](mailto:saadodin3@gmail.com)
 
 </div>
