@@ -15,7 +15,7 @@
 
 <img src="https://api.iconify.design/lucide/bot.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;I design and ship **LLM agents**, machine-learning pipelines, and the full-stack systems that run them.
 
-<img src="https://api.iconify.design/lucide/workflow.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;Currently building an **end-to-end AI agent platform at EHC Groupe**.
+<img src="https://api.iconify.design/lucide/workflow.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;Currently building an **internal AI automation platform at EHC Groupe**.
 
 <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;State Engineering Degree at **ESITH Casablanca** — Business & Data Management, after **CPGE MPSI/MP**.
 
@@ -41,11 +41,11 @@
 
 ### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;Projects
 
-**AI Recruitment Agent Platform** — *EHC Groupe, private*
+**AI Automation Platform** — *EHC Groupe, private*
 
-Automates a full business process: content generation, CV parsing, candidate scoring, interview scheduling and onboarding follow-up. An LLM agent driven by prompts and the Claude API, orchestrated with n8n. Dual-engine design falls back to a deterministic rules engine when the LLM API is unavailable; explainable scoring, degraded mode, full event log, **38/38 end-to-end tests passing**.
+Internal platform work: LLM agent integration and full-stack delivery, from data model through to interface. Further detail under confidentiality.
 
-`Next.js/React` `Node.js/Express` `Socket.IO` `FastAPI` `MongoDB` `Claude API` `n8n` `Docker Compose`
+`Next.js/React` `Node.js/Express` `FastAPI` `MongoDB` `Claude API` `n8n` `Docker`
 
 ---
 
