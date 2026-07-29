@@ -9,21 +9,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Saad%20Tadjaoui&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20MLOps%20%7C%20Automation&descAlignY=60&descSize=16)
 
-### 👨🏻‍💻 &nbsp;About Me
+### <img src="https://api.iconify.design/lucide/user-round.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;About Me
 
-💡 &nbsp;Industrial Engineering student at **ESITH Casablanca**, major in **Business & Data Management**.
+<img src="https://api.iconify.design/lucide/lightbulb.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;Industrial Engineering student at **ESITH Casablanca**, major in **Business & Data Management**.
 
-🎓 &nbsp;**CPGE MPSI/MP** background — rigorous analytical training before engineering school.
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;**CPGE MPSI/MP** background — rigorous analytical training before engineering school.
 
-🚀 &nbsp;Focused on **MLOps**: Airflow orchestration, MLflow registries, FastAPI serving, Docker — the part after the notebook.
+<img src="https://api.iconify.design/lucide/workflow.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;Focused on **MLOps**: Airflow orchestration, MLflow registries, FastAPI serving, Docker — the part after the notebook.
 
-🤖 &nbsp;I use LLMs as components, not demos — **Claude API** for document screening inside production services.
+<img src="https://api.iconify.design/lucide/bot.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;I use LLMs as components, not demos — **Claude API** for document screening inside production services.
 
-✍️ &nbsp;I write technical guides on **ML mathematics** and **GenAI**, published on LinkedIn.
+<img src="https://api.iconify.design/lucide/pen-line.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;I write technical guides on **ML mathematics** and **GenAI**, published on LinkedIn.
 
-🌍 &nbsp;French, English, Arabic.
+<img src="https://api.iconify.design/lucide/languages.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;French, English, Arabic.
 
-### 🛠 &nbsp;Tech Stack
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;Tech Stack
 
 **Languages**
 
@@ -45,7 +45,7 @@
 
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=white)&nbsp; ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp; ![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat)
 
-### 🚀 &nbsp;Featured Projects
+### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -55,7 +55,7 @@
 | **[AI Compass](https://ai-dashboard-roan-one.vercel.app)** · [code](https://github.com/SaadTadja/AI-Compass) | Live platform for comparing AI models: interactive benchmarks across MMLU, HumanEval, and GSM8K, plus production cost analysis. | `Next.js` `TypeScript` `Prisma` `Tailwind` |
 | **Recruitment Operations Platform** <br/>*(private — code on request)* | End-to-end hiring automation: REST API driving no-code workflows, IMAP email parsing, Claude-assisted CV screening, PDF reports, live updates over WebSockets. Hardened auth, 38/38 e2e tests. | `Express` `MongoDB` `Socket.IO` `Claude API` `n8n` |
 
-### ⚙️ &nbsp;GitHub Analytics
+### <img src="https://api.iconify.design/lucide/chart-line.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;GitHub Analytics
 
 <p align="center">
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaadTadja&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=1a1b27" alt="GitHub stats"/>
@@ -66,7 +66,7 @@
 <img src="https://streak-stats.demolab.com/?user=SaadTadja&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="Streak stats"/>
 </p>
 
-### ✍️ &nbsp;Writing
+### <img src="https://api.iconify.design/lucide/pen-line.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;Writing
 
 **Machine Learning Models** — LaTeX reference on the core mathematics of ML *(July 2025)*
 
