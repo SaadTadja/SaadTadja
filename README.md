@@ -1,13 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Saad%20Tadjaoui&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Engineer%20%7C%20Machine%20Learning%20%7C%20MLOps%20%7C%20Automation&descAlignY=60&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Saad%20Tadjaoui&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Engineering%20%7C%20Machine%20Learning%20%7C%20MLOps%20%7C%20Automation&descAlignY=60&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Industrial+Engineering+Student+at+ESITH+Casablanca;Building+production-grade+ML+pipelines;Bridging+data%2C+strategy%2C+and+automation;From+raw+data+to+deployed+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Industrial+Engineering+Student+at+ESITH+Casablanca;I+build+ML+systems+that+run+without+me;Airflow+%2B+MLflow+%2B+FastAPI+%2B+Docker;From+raw+data+to+deployed+systems)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SaadTadja&label=Profile%20views&color=7aa2f7&style=flat-square)](https://github.com/SaadTadja)
-[![Email](https://img.shields.io/badge/Contact-saadodin3%40gmail.com-7aa2f7?style=flat-square)](mailto:saadodin3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad%20Tadjaoui-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-tadjaoui-12a0a5305/)
+[![Email](https://img.shields.io/badge/Contact-saadodin3%40gmail.com-7aa2f7?style=flat-square&logo=gmail&logoColor=white)](mailto:saadodin3@gmail.com)
 
 </div>
 
@@ -15,23 +16,41 @@
 
 ## About
 
+Industrial Engineering student at **ESITH Casablanca** (Business & Data Management), with a
+CPGE MPSI/MP background. I work on the part of machine learning that most projects skip: what
+happens after the notebook. Orchestration, retraining, drift detection, serving, monitoring —
+the pieces that decide whether a model survives contact with production.
+
 ```yaml
 name:        Saad Tadjaoui
 role:        Industrial Engineering Student
 school:      ESITH Casablanca (Business & Data Management)
-year:        2nd year
 location:    Morocco
-focus:       [Machine Learning, MLOps, Process Automation]
+focus:       [MLOps, Applied Machine Learning, Process Automation]
 languages:   [French, English, Arabic]
-currently:   Automating business operations end-to-end
+currently:   Automating a full recruitment workflow, end to end
 philosophy:  "Closed-loop systems beat one-off scripts."
 ```
 
-- 2nd-year Industrial Engineering student at **ESITH Casablanca**, major in Business & Data Management
-- Specializing in **production-grade machine learning** — full pipelines, not isolated notebooks
-- Builder of automation workflows with **n8n**, **LangChain**, and local LLMs (**Ollama / Llama 3**)
-- Author of LinkedIn technical guides on **Machine Learning mathematics** and **GenAI with LangChain**
-- CPGE MPSI/MP background — comfortable with rigorous analytical work
+**What that looks like in practice**
+
+- **Pipelines, not notebooks** — Airflow DAGs, MLflow model registries, FastAPI services, Docker Compose stacks
+- **Automation with a feedback loop** — REST APIs wired into n8n, scheduled jobs, inbound email parsing, event-driven updates
+- **LLMs as components, not demos** — Claude API for document screening and generation inside real services
+- **Analytics that ends in a decision** — KPI layers, segmentation, forecasting, and strategic frameworks in shipped tools
+- **Writing** — LinkedIn technical guides on ML mathematics and on building with LangChain
+
+---
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Smart Supply Forecaster](https://github.com/SaadTadja/smart-supply-forecaster)** | Closed-loop continuous-training pipeline for retail demand forecasting. Airflow orchestrates scheduled retraining, MLflow tracks experiments and versions models, FastAPI serves predictions, and a Streamlit dashboard monitors drift — fully containerized. | `XGBoost` `Airflow` `MLflow` `FastAPI` `Streamlit` `PostgreSQL` `Docker` `pytest` |
+| **[Athena Core](https://github.com/SaadTadja/athena-core)** | End-to-end decision-support platform for enterprises, built in four analytical layers: descriptive KPIs, advanced segmentation and trend analysis, strategic frameworks, then AI modules for sales prediction, anomaly detection, recommendations, and a strategy assistant. | `Streamlit` `XGBoost` `scikit-learn` `statsmodels` `SQLAlchemy` `Plotly` |
+| **[ContinuumSC](https://github.com/SaadTadja/continuumsc)** | MLOps intelligence platform for continuous supply-chain operations — automated demand forecasting paired with interactive inventory optimization under service-level constraints. | `Streamlit` `XGBoost` `scikit-learn` `SciPy` `Plotly` |
+| **[AI Compass](https://github.com/SaadTadja/AI-Compass)** | Platform for evaluating and comparing AI models: interactive benchmark comparisons across MMLU, HumanEval, and GSM8K, live data visualizations, and production-grade cost analysis. | `Next.js` `TypeScript` `Prisma` `Tailwind` `Radix UI` `Framer Motion` |
+| **Recruitment Operations Platform** *(private client work)* | End-to-end automation of a hiring workflow: candidate and offer data model, REST API driving no-code automations (calendar invitations, reminders, follow-ups), inbound email parsing over IMAP, Claude-assisted CV screening and document generation, templated PDF reports, and live dashboard updates over WebSockets. Hardened auth (scrypt, session expiry), 38/38 end-to-end tests passing. | `Express` `MongoDB` `Socket.IO` `Next.js` `FastAPI` `Claude API` `n8n` `Docker` |
 
 ---
 
@@ -50,10 +69,10 @@ philosophy:  "Closed-loop systems beat one-off scripts."
 **Machine Learning & Data Science**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **MLOps & Backend**
@@ -62,7 +81,9 @@ philosophy:  "Closed-loop systems beat one-off scripts."
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **GenAI & Automation**
@@ -77,25 +98,12 @@ philosophy:  "Closed-loop systems beat one-off scripts."
 **Web & Tools**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| **Smart Supply Forecaster** | Closed-loop continuous-training MLOps pipeline for retail demand forecasting. Automated retraining, drift detection, monitoring dashboard. | `XGBoost` `Airflow` `MLflow` `FastAPI` `Streamlit` `PostgreSQL` `Docker` |
-| **Athena Core** | Personal AI knowledge engine — semantic search and retrieval-augmented generation over curated technical sources. | `LangChain` `Vector DB` `Python` |
-| **AI Compass** | Decision-support tool that orients learners through the AI and ML landscape. | `Python` `LLMs` `Streamlit` |
-| **Automated Operations Platform** | End-to-end platform automating a service-delivery workflow: relational data management, a REST API driving no-code automations (reminders, follow-ups, tender monitoring), AI-assisted document generation, and templated PDF output. | `Django` `DRF` `PostgreSQL` `HTMX` `n8n` `Celery` `WeasyPrint` `Claude API` `Docker` |
 
 </div>
 
@@ -110,15 +118,9 @@ philosophy:  "Closed-loop systems beat one-off scripts."
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadTadja&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=SaadTadja&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak"/>
 
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 [![Saad's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadTadja&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&hide_border=true)](https://github.com/SaadTadja)
 
@@ -126,12 +128,12 @@ philosophy:  "Closed-loop systems beat one-off scripts."
 
 ---
 
-## Publications
+## Writing
 
-- **Machine Learning Models** — LaTeX reference covering core machine learning mathematics *(July 2025)*
-- **Unlocking GenAI with LangChain** — Comprehensive practical guide to building with LangChain *(August 2025)*
+- **Machine Learning Models** — LaTeX reference covering the core mathematics of machine learning *(July 2025)*
+- **Unlocking GenAI with LangChain** — practical guide to building applications with LangChain *(August 2025)*
 
-Available on [LinkedIn](https://www.linkedin.com/in/saad-tadjaoui-12a0a5305/).
+Both available on [LinkedIn](https://www.linkedin.com/in/saad-tadjaoui-12a0a5305/).
 
 ---
 
