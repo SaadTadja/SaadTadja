@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I am Saad Tadjaoui.</h3>
+<h3 align="center">I am Saad Tadjaoui. AI/ML Engineer — LLM agents, machine learning, end-to-end solutions.</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SaadTadja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -8,8 +8,6 @@
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Saad%20Tadjaoui&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20Agents%20%7C%20End-to-End%20Solutions&descAlignY=60&descSize=16)
-
-> **Available for an end-of-studies internship (PFE) from February 2027** — flexible duration, open to Morocco and international.
 
 ### <img src="https://api.iconify.design/lucide/user-round.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;About Me
 
