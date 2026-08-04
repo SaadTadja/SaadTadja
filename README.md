@@ -9,6 +9,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Saad%20Tadjaoui&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20Agents%20%7C%20End-to-End%20Solutions&descAlignY=60&descSize=16)
 
+> **“The best vibe coder isn't the one who writes every line manually, but the one who knows the right questions to ask—and the right answers to verify.”**
+>
+> — from [*From Vibe Coding to Engineering*](https://saadtadja.github.io/vibe-coding-to-engineering.html), on building two end-to-end AI agent platforms as an intern
+
 ### <img src="https://api.iconify.design/lucide/user-round.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;About Me
 
 <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%237aa2f7&width=18" width="18"/> &nbsp;Final-year engineering student who builds **AI/ML solutions end to end** — from the real business need through to production.
