@@ -29,19 +29,35 @@
 
 **AI & Machine Learning**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp; ![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat)&nbsp; ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp; ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=mlflow)&nbsp; ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow)&nbsp; ![Claude](https://img.shields.io/badge/-Claude_API-05122A?style=flat&logo=anthropic&logoColor=D97757)
+| Python | PyTorch | scikit-learn | XGBoost | MLflow | Claude API |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/python" width="40" alt="Python"/> | <img src="https://cdn.simpleicons.org/pytorch" width="40" alt="PyTorch"/> | <img src="https://cdn.simpleicons.org/scikitlearn" width="40" alt="scikit-learn"/> | <img src="https://api.iconify.design/lucide/boxes.svg?color=%237aa2f7&width=40" width="40" alt="XGBoost"/> | <img src="https://cdn.simpleicons.org/mlflow" width="40" alt="MLflow"/> | <img src="https://cdn.simpleicons.org/claude" width="40" alt="Claude API"/> |
 
-`LLM agents` · `prompt engineering` · `RAG` · `model evaluation & monitoring` · `drift detection`
+**Backend & APIs**
 
-**Development**
+| FastAPI | Node.js | Express | Socket.IO | Docker |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/fastapi" width="40" alt="FastAPI"/> | <img src="https://cdn.simpleicons.org/nodedotjs" width="40" alt="Node.js"/> | <img src="https://cdn.simpleicons.org/express" width="40" alt="Express"/> | <img src="https://cdn.simpleicons.org/socketdotio" width="40" alt="Socket.IO"/> | <img src="https://cdn.simpleicons.org/docker" width="40" alt="Docker"/> |
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp; ![Express](https://img.shields.io/badge/-Node.js%2FExpress-05122A?style=flat&logo=nodedotjs)&nbsp; ![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socketdotio)&nbsp; ![Next.js](https://img.shields.io/badge/-Next.js%2FReact-05122A?style=flat&logo=nextdotjs&logoColor=white)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+**Frontend**
 
-**Data**
+| Next.js | React | TypeScript |
+|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/nextdotjs" width="40" alt="Next.js"/> | <img src="https://cdn.simpleicons.org/react" width="40" alt="React"/> | <img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript"/> |
 
-![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp; ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp; ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)&nbsp; ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma&logoColor=white)&nbsp; ![Power BI](https://img.shields.io/badge/-Power_BI-05122A?style=flat)&nbsp; ![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n)
+**Data & Databases**
 
-`feature engineering` · `preprocessing & analysis` · `dashboards & KPIs`
+| Pandas | NumPy | MongoDB | PostgreSQL | Prisma |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/pandas" width="40" alt="Pandas"/> | <img src="https://cdn.simpleicons.org/numpy" width="40" alt="NumPy"/> | <img src="https://cdn.simpleicons.org/mongodb" width="40" alt="MongoDB"/> | <img src="https://cdn.simpleicons.org/postgresql" width="40" alt="PostgreSQL"/> | <img src="https://cdn.simpleicons.org/prisma" width="40" alt="Prisma"/> |
+
+**Tools & Workflow**
+
+| Git | Airflow | n8n | Streamlit | Power BI |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/git" width="40" alt="Git"/> | <img src="https://cdn.simpleicons.org/apacheairflow" width="40" alt="Airflow"/> | <img src="https://cdn.simpleicons.org/n8n" width="40" alt="n8n"/> | <img src="https://cdn.simpleicons.org/streamlit" width="40" alt="Streamlit"/> | <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%237aa2f7&width=40" width="40" alt="Power BI"/> |
+
+`LLM agents` · `prompt engineering` · `RAG` · `model evaluation & monitoring` · `drift detection` · `feature engineering` · `dashboards & KPIs`
 
 ### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%237aa2f7&width=20" width="20"/> &nbsp;Projects
 
